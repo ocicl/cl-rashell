@@ -1,0 +1,10 @@
+* cl-rashell
+
+Resilient replicant Shell Programming Library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melusina-org/cl-rashell.git   |
+| commit  | {"messa  |
+| systems | cl-rashell |
+|---------+-------------------------------------------|
+
