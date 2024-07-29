@@ -4,6 +4,6 @@ Resilient replicant Shell Programming Library for Common Lisp
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/melusina-org/cl-rashell.git |
-| commit  | f54caba                                            |
+| commit  | a234f0b                                            |
 | systems | org.melusina.rashell                               |
 |---------+----------------------------------------------------|
