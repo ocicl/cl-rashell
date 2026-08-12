@@ -7,4 +7,4 @@ Resilient replicant Shell Programming Library for Common Lisp
 | commit  | a234f0b                                            |
 | systems | org.melusina.rashell                               |
 |---------+----------------------------------------------------|
-  
+   
